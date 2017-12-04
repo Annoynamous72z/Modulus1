@@ -6,4 +6,4 @@ Andrew 'BOBYAAA' Xing
 
 Clmnt Liaw
 
-Ryan Konoshiba
+Ryan Shi
