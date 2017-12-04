@@ -2,8 +2,8 @@
 
 Group 22 Onion Omega2 motion sensor and LED scheduler system.
 
-Andrew 'BOBYAAA' Xing
+Andrew Xing
 
-Clmnt Liaw
+Clement Liaw
 
 Ryan Shi
