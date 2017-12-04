@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: Graphics_Webcam, Configuration: Debug Win32 ------
+1>Functions.cpp
+1>c:\users\clement\documents\visual studio 2017\projects\graphics_webcam\graphics_1\functions.cpp(129): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>c:\users\clement\documents\visual studio 2017\projects\graphics_webcam\graphics_1\functions.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>c:\users\clement\documents\visual studio 2017\projects\graphics_webcam\graphics_1\functions.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>c:\users\clement\documents\visual studio 2017\projects\graphics_webcam\graphics_1\functions.cpp(202): warning C4717: 'lightDelay': recursive on all control paths, function will cause runtime stack overflow
+1>Graphics_1.vcxproj -> C:\Users\Clement\Documents\Visual Studio 2017\Projects\Graphics_Webcam\Debug\Graphics_Webcam.exe
+1>Done building project "Graphics_1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
